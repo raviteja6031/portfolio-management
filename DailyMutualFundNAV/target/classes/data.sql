@@ -1,0 +1,1 @@
+INSERT INTO mutual_fund (mutual_fund_id, mutual_fund_name, mutual_fund_value) values (200,'Nippon Value Fund (G)',303.67);
